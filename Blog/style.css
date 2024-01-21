@@ -1,0 +1,165 @@
+.star {
+    max-width: 400px;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: floralwhite;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.gal {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: floralwhite;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 30px;
+   
+}
+
+.gal img:hover{
+    transform: scale(1.9);
+}
+
+.gal img {
+    transition: all 2s;
+}
+
+.star img {
+    transition: all 2s;
+}
+
+span {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.start {
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.infos {
+    text-align: start;
+    padding-left: 50px
+}
+
+img {
+    border: 1px dotted blue;
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
+}
+
+.home {
+    max-width: 400px;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    background-color: floralwhite;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: larger;
+    /*padding: auto;*/
+    margin-bottom: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+
+.home a {
+    color: brown;
+}
+
+.impres a {
+    color: brown;
+
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background: url(./fotos/starrynight.jpeg);
+    background-size: contain;
+    backdrop-filter: blur(30px);
+}
+
+
+
+#pod {
+    margin-top: 40px;  
+}
+
+#hov:hover {
+    background-color: bisque;
+    font-weight: bold;
+    font-size: larger;
+    padding: auto;
+    transition: all 1s;
+    color: darkcyan;
+}
+
+.start p a {
+    color: brown;
+}
+
+.star img:hover {
+    transition: all 2s;
+    transform: scale(1.2);
+}
+
+.impres {
+    width: auto;
+    height: auto;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    /*background-color: floralwhite;*/
+    margin-bottom: 40px;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+iframe {
+    border-radius: 30px;
+}
+
+#imp {
+    font-size: x-large;
+    font-weight: bold;
+    color: brown;
+    text-decoration: underline;
+    padding-bottom: 40px;
+    
+}
+
+
+
+
+
+
